@@ -1,0 +1,5 @@
+Para verificar o teste, basta abrir o terminal na pasta e escrever os seguintes comandos:
+npm i // irá instalar os pacotes usados (express,bodyparse,ejs)
+node index.js // Será iniciado um servidor local neste endereço: http://localhost:3000/.
+
+Foi usado javascript, node.js, express, bodyparse,ejs, html e css.
